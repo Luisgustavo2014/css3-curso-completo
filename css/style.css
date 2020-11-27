@@ -17,7 +17,7 @@ h1, h2, h3 {
 }
 
 header, footer {
-    background-color: #1a2a40;
+    background-color: #575d64;
     color: #fff;
     overflow: auto;
 }
@@ -60,11 +60,12 @@ h2 {
 }
 
 .social-icons i {
+    color: #130372;
     padding: 25px;
     transition: .4s;
 }
 
 .social-icons i:hover {
-    color: #e00b27;
+    color: #eae9f0;
     transition: .4s;
 }
